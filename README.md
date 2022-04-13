@@ -1,6 +1,6 @@
 # uCrop - Image Cropping Library for Android
 
-#### [中文使用](home)
+#### [中文使用](Home)
 
 #### This project aims to provide an ultimate and flexible image cropping experience. Made in [Yalantis](https://yalantis.com/?utm_source=github)
 
